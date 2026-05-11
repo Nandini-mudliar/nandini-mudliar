@@ -1,4 +1,4 @@
-<h3 align="left">ナンディニ:</h3>
+<h3 align="left">ナンディニ</h3>
 <p align="left">
 </p>
 
