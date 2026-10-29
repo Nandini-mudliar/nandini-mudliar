@@ -1,5 +1,7 @@
-<h3 align="left">ナンディニ</h3>
-<p align="left">
+<p align="center">
+  <img
+    src="https://github.com/Nandini-mudliar/nandini-mudliar/blob/main/1e9c0f779c9d64794ddb28b93d59b63792243dd5929f473132f217c787490422.png?raw=true"
+    alt="img"
+    width="100%"
+  />
 </p>
-
- </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </p>
